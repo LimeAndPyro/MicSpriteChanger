@@ -5,3 +5,6 @@ Place dll in mods folder.
 replace the pngs in the folder with your own icons 512px *512px recomended 
 MAKE SURE TO KEEP THE NAME OF THE .PNGS THE SAME.
 DO NOT OVERRITE THE NAMES.
+
+LOL I UPDATED IT
+
